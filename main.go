@@ -34,6 +34,6 @@ import (
 )
 
 func main() {
-    fmt.Println(montecarlo.MonteCarlo(10))
+    fmt.Println(montecarlo.MonteCarlo(100000000))
 }
 /**/
